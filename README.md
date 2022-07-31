@@ -1,5 +1,4 @@
-# Cancer Code -
-Website providing cancer support
+# Cancer Code - Website providing cancer support
 
 PROBLEM STATEMENT
 
