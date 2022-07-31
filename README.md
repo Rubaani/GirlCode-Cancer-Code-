@@ -21,5 +21,5 @@ into the field of cancer by filling a form about the details of their personal e
 
 The project is made using HTML, CSS, Bootstrap, JavaScript, Python and JQuery. The chatbot gives an accuracy of 94%.
 
-Images of the project
+Images of the project - 
 https://docs.google.com/presentation/d/1dMIlE65goy57zOqptRbkOzIxg5uPUASrZW5UqhqGNMc/edit#slide=id.p 
