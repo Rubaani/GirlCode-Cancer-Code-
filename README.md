@@ -18,3 +18,5 @@ This service is provided by Cancer Code. On our website you can find a chatbot t
 have regarding cancer. The site also has information about specialists to save you time from browsing and finding the right doctor for you. 
 Another great feature that our website has is that it gives opportunity to the patients to contribute for further research and development 
 into the field of cancer by filling a form about the details of their personal experiences with the disease.
+
+The project is made using HTML, CSS, Bootstrap, JavaScript, Python and JQuery. The chatbot gives an accuracy of 94%.
