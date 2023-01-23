@@ -155,6 +155,11 @@
         {"tag": "prevention_of_kidney_cancer",
          "patterns": ["how can the risk of skin cancer be reduced", "Prevention of skin cancer", "how can skin cancer be prevented","reduce the risk of skin cancer"],
          "responses": [ "To lower your risk of kidney and renal pelvis cancers— <ul><li>Don’t smoke, or quit if you do.</li><li>Keep a healthy weight.</li><li>Eat a healthy diet.</li><li>Exercise.</li><li>Be very careful if you use certain kinds of chemicals, especially trichloroethylene. This chemical is used by workers in some jobs, like those that work with metals.</li></ul>"    ]
+        },
+        {
+          "tag":"specialists",
+          "patterns":["can you suggest me some specialists?","specialists","recommend specialists","doctor","search doctor"],
+          "responses":["You can check them out here: <a href= '/templates/indexes.html#specialists' target='_blank'> Click Here </a>"]
         }
     ]
   }
